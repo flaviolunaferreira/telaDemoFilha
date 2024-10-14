@@ -8,6 +8,8 @@ body {
         border: 1px solid black;
         width: 97,5vw;
         height: 36vh;
+        color: white;
+    
         .btn {
             background: rgb(2, 0, 128);
             border: 1px solid black;
